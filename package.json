@@ -2,7 +2,9 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "aben",
 	"description": "A beginner backend project with Node.js ",
-	"keywords": [ "node.js", "backend", "npm" ],
+	"license": "MIT",
+	"version": "1.0.0",
+	"keywords": [ "node.js", "backend", "freecodecamp" ],
 
 	"dependencies": {
 		"express": "^4.14.0"
